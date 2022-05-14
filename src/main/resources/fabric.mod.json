@@ -9,12 +9,11 @@
     "kd8lvt"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
+    "homepage": "https://github.com/kd8lvt/kds-bonemealable-pots",
     "sources": "https://github.com/kd8lvt/kds-bonemealable-pots"
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
 
   "environment": "*",
   "entrypoints": {
